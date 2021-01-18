@@ -1,15 +1,15 @@
 ﻿  traffic_light_detection.cpp
-C:\Users\6-16\source\repos\opencv_trafficLight\opencv_trafficLight\traffic_light_detection.cpp(41,30): warning C4244: '초기화 중': '_Tp'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\6-16\source\repos\opencv_trafficLight\opencv_trafficLight\traffic_light_detection.cpp(46,30): warning C4244: '초기화 중': '_Tp'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
           with
           [
               _Tp=double
           ]
-C:\Users\6-16\source\repos\opencv_trafficLight\opencv_trafficLight\traffic_light_detection.cpp(42,29): warning C4244: '초기화 중': '_Tp'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\6-16\source\repos\opencv_trafficLight\opencv_trafficLight\traffic_light_detection.cpp(47,29): warning C4244: '초기화 중': '_Tp'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
           with
           [
               _Tp=double
           ]
-C:\Users\6-16\source\repos\opencv_trafficLight\opencv_trafficLight\traffic_light_detection.cpp(43,29): warning C4244: '초기화 중': '_Tp'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\6-16\source\repos\opencv_trafficLight\opencv_trafficLight\traffic_light_detection.cpp(48,29): warning C4244: '초기화 중': '_Tp'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
           with
           [
               _Tp=double
